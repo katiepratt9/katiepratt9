@@ -23,14 +23,14 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" alt="Katie's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiepratt9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiepratt9&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katiepratt9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katiepratt9&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=katiepratt9&color=blueviolet&style=for-the-badge" alt="GitHub Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=katiepratt9&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ## 🎮 Featured Projects
