@@ -1,2 +1,10 @@
-#Citations for header: 
-stockgiu - "Arcade game world and pixel scene" - Freepik - https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm#fromView=search&page=1&position=0&uuid=78c48d47-ca38-4271-b77a-cb149a512987&query=2d+Pixel+landscape 
+# Credits
+
+## Tools & Resources Used
+
+- **GitHub Readme Stats** — https://github.com/anuraghazra/github-readme-stats
+- **GitHub Streak Stats** — https://github.com/DenverCoder1/github-readme-streak-stats
+- **GitHub Profile Trophy** — https://github.com/ryo-ma/github-profile-trophy
+- **Profile View Counter** — https://komarev.com/ghpvc/
+- **Shields.io Badges** — https://shields.io
+- **Banner Background** — stockgiu, "Arcade game world and pixel scene", Freepik — https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm
