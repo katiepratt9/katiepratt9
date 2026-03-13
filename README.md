@@ -63,6 +63,6 @@ A local fake "Choose Your Own Adventure" website.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katie.pratt9@gmail.com)
 
-*"Don't you dare go hollow."* 🎮
+<p align="center"><i>"Don't you dare go hollow."</i> 🎮</p>
 
 
