@@ -1,6 +1,5 @@
-
-
-## 🙋‍♀️ About Me
+<img src="banner.png" alt="Banner" width="100%"/>
+## About Me
 I'm a 4th year Computing Science Co-op student who loves all things code, games, and creative problem solving. 
 - 🎓 Studying Computing Science at **Thompson Rivers University**, Kamloops BC
 - 🕹️ Passionate about **game development and software engineering**
@@ -36,30 +35,35 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 ---
 ## 🎮 Featured Projects
 ### 🥽 VR Baseball & Space Shooter *(Unreal Engine, C++, Blueprints)*
-Two VR experiences built in Unreal Engine a Simple Baseball VR game where player can pick up a bat and hit endless flying and spinning baseball projectiles for points, and an enemy wave survival shooter set in a robotic lab. Focused on real-time physics, input handling, and immersive 3D interaction.
+Two VR experiences built in Unreal Engine.
+<img src="baseball.png" alt="VR Baseball" width="600"/>
+<img src="robot.png" alt="VR Robot Shooter Game" width="600"/>
 ---
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
-A desktop GUI application with a Python backend, featuring role-based login, tabbed multi-page forms, and full CRUD record management. Built collaboratively with cross-process communication via JSON.
+A desktop GUI application with a Python backend, featuring role-based login, tabbed multi-page forms, and full CRUD record management. Built collaboratively.
+<img src="desktopGui.png" alt="Academic Case Manager" width="600"/>
 ---
 ### 📱 Tiny Thinkers — Mobile Educational Game Suite *(Android Studio, Java)*
-A collaborative Android app featuring authentication and mini-games (tic-tac-toe and hangman) built for young learners.
+A collaborative Android app featuring authentication and mini-games built for young learners.
+<img src="TinyApp.png" alt="TinyThinkersApp" width="600"/>
 ---
 ### 🎪 Clown Game (C++)*
 2D arcade-style game where you play as a clown trying to pop a bouncing balloon with a dart before it hits you, or the ground. 
+<img src="clown.png" alt="Clown Game" width="600"/>
 ---
 ### @!#?@! Q*bert Clone *(Python, Pygame)*
-A clone of the classic Q*bert arcade game built using Python and Pygame. Jump your way to victory while avoiding enemies, falling off the pyramid, and using the spinning disks to escape danger.
+A clone of the classic Q-bert arcade game built using Python and Pygame.
+<img src="qbert.png" alt="Clown Game" width="600"/>
 ---
 ### 🏰 Choose Your Own Adventure Website *(HTML, CSS, Javascript)*
-A clone of the classic Q*bert arcade game built using Python and Pygame. Jump your way to victory while avoiding enemies, falling off the pyramid, and using the spinning disks to escape danger.
+A local fake "Choose Your Own Adventure" website.
+<img src="CYOAweb.png" alt="Choose Your Own Adventure" website" width="600"/>
 ---
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katie.pratt9@gmail.com)
 ---
+
 *"Don't you dare go hollow."* 🎮
 
 
-
-##Citations for header: 
-stockgiu - "Arcade game world and pixel scene" - Freepik - https://www.freepik.com/free-vector/arcade-game-world-pixel-scene_4815143.htm#fromView=search&page=1&position=0&uuid=78c48d47-ca38-4271-b77a-cb149a512987&query=2d+Pixel+landscape 
