@@ -23,11 +23,9 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiepratt9&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katiepratt9&theme=tokyonight&hide_border=true" width="92%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiepratt9&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katiepratt9&theme=tokyonight&hide_border=true" width="30%"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=katiepratt9&color=blueviolet&style=for-the-badge"/>
