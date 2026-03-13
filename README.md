@@ -32,7 +32,6 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=katiepratt9&color=blueviolet&style=for-the-badge" alt="GitHub Visitor Counter"/>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=katiepratt9&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎮 Featured Projects
 ### 🥽 VR Baseball & Space Shooter *(Unreal Engine, C++, Blueprints)*
@@ -41,7 +40,7 @@ Two VR experiences built in Unreal Engine.
 <img src="robot.png" alt="VR Robot Shooter Game" width="600"/>
 
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
-A desktop GUI application with a Python backend, featuring role-based login, tabbed multi-page forms, and full CRUD record management. Built collaboratively.
+A desktop GUI application with a Python backend. Built collaboratively.
 <img src="desktopGui.PNG" alt="Academic Case Manager" width="600"/>
 
 ### 📱 Tiny Thinkers — Mobile Educational Game Suite *(Android Studio, Java)*
