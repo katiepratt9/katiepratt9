@@ -41,7 +41,7 @@ Two VR experiences built in Unreal Engine.
 ---
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
 A desktop GUI application with a Python backend, featuring role-based login, tabbed multi-page forms, and full CRUD record management. Built collaboratively.
-<img src="desktopGui.png" alt="Academic Case Manager" width="600"/>
+<img src="desktopGui.PNG" alt="Academic Case Manager" width="600"/>
 ---
 ### 📱 Tiny Thinkers — Mobile Educational Game Suite *(Android Studio, Java)*
 A collaborative Android app featuring authentication and mini-games built for young learners.
