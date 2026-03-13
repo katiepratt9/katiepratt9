@@ -57,7 +57,7 @@ A clone of the classic Q-bert arcade game built using Python and Pygame.
 
 ### 🏰 Choose Your Own Adventure Website *(HTML, CSS, Javascript)*
 A local fake "Choose Your Own Adventure" website.
-<img src="CYOAweb.png" alt="Choose Your Own Adventure" website" width="600"/>
+<img src="CYOAweb.png" alt="Choose Your Own Adventure website" width="600"/>
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
