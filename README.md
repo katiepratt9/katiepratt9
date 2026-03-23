@@ -4,7 +4,7 @@
 I'm a 4th year Computing Science Co-op student who loves all things code, games, and creative problem solving. 
 - 🎓 Studying Computing Science at **Thompson Rivers University**, Kamloops BC
 - 🕹️ Passionate about **game development and software engineering**
-- 🌱 Currently learning **SQL, Power BI, and Computer Networks**
+- 🌱 Currently learning **SQL, Power BI, Computer Networks, and unity**
 - 🔍 Actively seeking **co-op opportunities** in software development, game dev, and IT
 
 ## 🛠️ Languages & Tools
