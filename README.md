@@ -33,32 +33,32 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 
 ## 🎮 Featured Projects
 ### 🥽 VR Baseball & Space Shooter *(Unreal Engine, C++, Blueprints)*
-Two VR experiences built in Unreal Engine.
-<img src="baseball.png" alt="VR Baseball" width="600"/>
-https://www.youtube.com/watch?v=Fr8q7LyTW5A
+Two VR experiences built in Unreal Engine.<br>
+<img src="baseball.png" alt="VR Baseball" width="600"/><br>
+https://www.youtube.com/watch?v=Fr8q7LyTW5A<br>
 
-<img src="robot.png" alt="VR Robot Shooter Game" width="600"/>
-https://www.youtube.com/watch?v=ss342nZ8SaM
+<img src="robot.png" alt="VR Robot Shooter Game" width="600"/><br>
+https://www.youtube.com/watch?v=ss342nZ8SaM<br>
 
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
-A desktop GUI application with a Python backend. Built collaboratively.
-<img src="desktopGui.PNG" alt="Academic Case Manager" width="600"/>
+A desktop GUI application with a Python backend. Built collaboratively.<br>
+<img src="desktopGui.PNG" alt="Academic Case Manager" width="600"/><br>
 
 ### 📱 Tiny Thinkers — Mobile Educational Game Suite *(Android Studio, Java)*
-A collaborative Android app featuring authentication and mini-games built for young learners.
-<img src="TinyApp.png" alt="TinyThinkersApp" width="600"/>
+A collaborative Android app featuring authentication and mini-games built for young learners.<br>
+<img src="TinyApp.png" alt="TinyThinkersApp" width="600"/><br>
 
 ### 🎪 Clown Game (C++)*
-2D arcade-style game where you play as a clown trying to pop a bouncing balloon with a dart before it hits you, or the ground. 
-<img src="clown.png" alt="Clown Game" width="600"/>
+2D arcade-style game where you play as a clown trying to pop a bouncing balloon with a dart before it hits you, or the ground.<br>
+<img src="clown.png" alt="Clown Game" width="600"/><br>
 
 ### @!#?@! Q*bert Clone *(Python, Pygame)*
-A clone of the classic Q-bert arcade game built using Python and Pygame.
-<img src="qbert.png" alt="Clown Game" width="600"/>
+A clone of the classic Q-bert arcade game built using Python and Pygame.<br>
+<img src="qbert.png" alt="Clown Game" width="600"/><br>
 
 ### 🏰 Choose Your Own Adventure Website *(HTML, CSS, Javascript)*
-A local fake "Choose Your Own Adventure" website.
-<img src="CYOAweb.png" alt="Choose Your Own Adventure website" width="600"/>
+A local fake "Choose Your Own Adventure" website.<br>
+<img src="CYOAweb.png" alt="Choose Your Own Adventure website" width="600"/><br>
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
