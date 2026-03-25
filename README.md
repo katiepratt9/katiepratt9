@@ -4,7 +4,7 @@
 I'm a 4th year Computing Science Co-op student who loves all things code, games, and creative problem solving. 
 - 🎓 Studying Computing Science at **Thompson Rivers University**, Kamloops BC
 - 🕹️ Passionate about **game development and software engineering**
-- 🌱 Currently learning **SQL, Power BI, Computer Networks, and unity**
+- 🌱 Currently learning **SQL, Power BI, Computer Networks, and Unity**
 - 🔍 Actively seeking **co-op opportunities** in software development, game dev, and IT
 
 ## 🛠️ Languages & Tools
@@ -35,7 +35,10 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 ### 🥽 VR Baseball & Space Shooter *(Unreal Engine, C++, Blueprints)*
 Two VR experiences built in Unreal Engine.
 <img src="baseball.png" alt="VR Baseball" width="600"/>
+https://www.youtube.com/watch?v=Fr8q7LyTW5A
+
 <img src="robot.png" alt="VR Robot Shooter Game" width="600"/>
+https://www.youtube.com/watch?v=ss342nZ8SaM
 
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
 A desktop GUI application with a Python backend. Built collaboratively.
