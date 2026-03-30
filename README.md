@@ -4,7 +4,7 @@
 I'm a 4th year Computing Science Co-op student who loves all things code, games, and creative problem solving. 
 - 🎓 Studying Computing Science at **Thompson Rivers University**, Kamloops BC
 - 🕹️ Passionate about **game development and software engineering**
-- 🌱 Currently learning **SQL, Power BI, Computer Networks, and Unity**
+- 🌱 Currently learning **SQL, Computer Networks, and Unity**
 - 🔍 Actively seeking **co-op opportunities** in software development, game dev, and IT
 
 ## 🛠️ Languages & Tools
@@ -40,30 +40,48 @@ https://www.youtube.com/watch?v=Fr8q7LyTW5A<br>
 <img src="robot.png" alt="VR Robot Shooter Game" width="600"/><br>
 https://www.youtube.com/watch?v=ss342nZ8SaM<br>
 
+[View Repository](https://github.com/katiepratt9/Unreal_Projects_SpaceShooter_VRBaseball)
+
 ### 🗂️ Academic Case Record Manager *(C#, Windows Forms, Python, JSON)*
 A desktop GUI application with a Python backend. Built collaboratively.<br>
 <img src="desktopGui.PNG" alt="Academic Case Manager" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/CSharp-Python-GUI)
 
 ### 📱 Tiny Thinkers — Mobile Educational Game Suite *(Android Studio, Java)*
 A collaborative Android app featuring authentication and mini-games built for young learners.<br>
 <img src="TinyApp.png" alt="TinyThinkersApp" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/TinyThinkersApp)
 
-### 🎪 Clown Game (C++)*
+### 🎪 Clown Game *(C++)*
 2D arcade-style game where you play as a clown trying to pop a bouncing balloon with a dart before it hits you, or the ground.<br>
 <img src="clown.png" alt="Clown Game" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/Clown-Game)
 
 ### @!#?@! Q*bert Clone *(Python, Pygame)*
 A clone of the classic Q-bert arcade game built using Python and Pygame.<br>
 <img src="qbert.png" alt="Clown Game" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/Qbert)
 
 ### 🏰 Choose Your Own Adventure Website *(HTML, CSS, Javascript)*
 A local fake "Choose Your Own Adventure" website.<br>
 <img src="CYOAweb.png" alt="Choose Your Own Adventure website" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/Choose_Your_Own_Adventure_Website)
+
+### 📊 USDA Fruit & Vegetable Price Analysis Dashboard *(Power BI, DAX)*
+An interactive Power BI dashboard analysing average retail prices for 155 commonly consumed fruits and vegetables across the United States, using 2023 USDA data. Features data cleaning, DAX measures, and 10 visuals including treemaps, cards, and comparison charts.<br>
+<img src="dashboard.png" alt="USDA Fruit & Vegetable Price Analysis Dashboard" width="600"/><br>
+[View Repository](https://github.com/katiepratt9/PowerBI-Dashboard)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katie.pratt9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katie.pratt9@gmail.com) <br>
 
-<p align="center"><i>"Don't you dare go hollow."</i> 🎮</p>
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXV4YndyamszZjBxMGNkZGtkdno1MmVqNmEyaHkyc3V2cTlwbWF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3tWybTneNwji5YVTs/giphy.gif" width="250"/>
+</div>
+<p align="center">
+  <i>"Don't you dare go hollow."</i> 
+</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1bmd2dTE2N3BvM2NqM2htdWszYjRoa2M5dzR2MXNwdDk0MHhnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AQRapWCgC7dThyVEYb/giphy.gif" width="250"/>
+</div>
