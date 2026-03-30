@@ -23,7 +23,7 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" width="32%"/>
+  //<img src="https://github-readme-stats.vercel.app/api?username=katiepratt9&show_icons=true&theme=tokyonight&hide_border=true" width="32%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiepratt9&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=katiepratt9&theme=tokyonight&hide_border=true" width="32%"/>
 </p>
@@ -82,10 +82,10 @@ An interactive Power BI dashboard analysing average retail prices for 155 common
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXV4YndyamszZjBxMGNkZGtkdno1MmVqNmEyaHkyc3V2cTlwbWF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3tWybTneNwji5YVTs/giphy.gif" width="200"/>
     </td>
     <td align="center">
-      <i>"Don't you dare go hollow."</i>
-    </td>
-    <td align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1bmd2dTE2N3BvM2NqM2htdWszYjRoa2M5dzR2MXNwdDk0MHhnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AQRapWCgC7dThyVEYb/giphy.gif" width="200"/>
     </td>
   </tr>
 </table>
+<p align="center">
+  <i>"Don't you dare go hollow."</i>
+</p>
