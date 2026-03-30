@@ -69,19 +69,23 @@ A local fake "Choose Your Own Adventure" website.<br>
 
 ### 📊 USDA Fruit & Vegetable Price Analysis Dashboard *(Power BI, DAX)*
 An interactive Power BI dashboard analysing average retail prices for 155 commonly consumed fruits and vegetables across the United States, using 2023 USDA data. Features data cleaning, DAX measures, and 10 visuals including treemaps, cards, and comparison charts.<br>
-<img src="dashboard.png" alt="USDA Fruit & Vegetable Price Analysis Dashboard" width="600"/><br>
+<img src="https://raw.githubusercontent.com/katiepratt9/PowerBI-Dashboard/main/dashboard.png" alt="USDA Fruit & Vegetable Price Analysis Dashboard" width="600"/><br>
 [View Repository](https://github.com/katiepratt9/PowerBI-Dashboard)
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katheryn-pratt-555018183)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katie.pratt9@gmail.com) <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXV4YndyamszZjBxMGNkZGtkdno1MmVqNmEyaHkyc3V2cTlwbWF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3tWybTneNwji5YVTs/giphy.gif" width="250"/>
-</div>
-<p align="center">
-  <i>"Don't you dare go hollow."</i> 
-</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1bmd2dTE2N3BvM2NqM2htdWszYjRoa2M5dzR2MXNwdDk0MHhnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AQRapWCgC7dThyVEYb/giphy.gif" width="250"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXV4YndyamszZjBxMGNkZGtkdno1MmVqNmEyaHkyc3V2cTlwbWF5cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3tWybTneNwji5YVTs/giphy.gif" width="200"/>
+    </td>
+    <td align="center">
+      <i>"Don't you dare go hollow."</i>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1bmd2dTE2N3BvM2NqM2htdWszYjRoa2M5dzR2MXNwdDk0MHhnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AQRapWCgC7dThyVEYb/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
