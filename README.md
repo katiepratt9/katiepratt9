@@ -2,10 +2,11 @@
 
 ## About Me
 I'm a 4th year Computing Science Co-op student who loves all things code, games, and creative problem solving. 
-- 🎓 Studying Computing Science at **Thompson Rivers University**, Kamloops BC
-- 🕹️ Passionate about **game development and software engineering**
-- 🌱 Currently learning **SQL, Computer Networks, and Unity**
-- 🔍 Actively seeking **co-op opportunities** in software development, game dev, and IT
+- 🎓 Studying Computing Science at Thompson Rivers University
+- 💼 Currently completing a Technology Services Analyst Co-op with BC Wildfire Service
+- 🎮 Passionate about game development, software engineering, and IT
+- 🌱 Currently Agile development, Git workflows, cloud/infrastructure concepts, and enterprise IT operations
+- 🔍 Interested in software development, game development, and IT opportunities
 
 ## 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
