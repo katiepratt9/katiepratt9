@@ -5,7 +5,7 @@ I'm a 4th year Computing Science Co-op student who loves all things code, games,
 - 🎓 Studying Computing Science at Thompson Rivers University
 - 💼 Currently completing a Technology Services Analyst Co-op with BC Wildfire Service
 - 🎮 Passionate about game development, software engineering, and IT
-- 🌱 Currently Agile development, Git workflows, cloud/infrastructure concepts, and enterprise IT operations
+- 🌱 Currently expanding my skills in software development, IT infrastructure, networking, troubleshooting, and Agile development
 - 🔍 Interested in software development, game development, and IT opportunities
 
 ## 🛠️ Languages & Tools
